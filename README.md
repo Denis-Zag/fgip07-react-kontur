@@ -2,7 +2,7 @@
 
 Трекер задач с канбан-доской и представлением списком.
 
-[Открыть приложение](https://denis-zag.gitverse.site/react-kontur/) · [Исходное объявление](https://www.fl.ru/projects/5026526/todo-prilojenie-na-react.html)
+[Открыть приложение на Netlify](https://denis-zag-react-kontur.netlify.app/) · [Исходное объявление](https://www.fl.ru/projects/5026526/todo-prilojenie-na-react.html)
 
 ## Возможности
 
